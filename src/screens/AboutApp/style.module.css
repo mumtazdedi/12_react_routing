@@ -1,0 +1,10 @@
+.padding {
+    padding-left : 220px;
+    padding-right: 75px;
+}
+
+.padding h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(14, 14, 14);
+}

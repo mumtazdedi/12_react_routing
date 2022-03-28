@@ -1,0 +1,4 @@
+.sidebar a:focus {
+    background-color: rgb(28, 89, 202);
+    color: #fff;
+}
